@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "employee": [
+    {
+      "firstname": "Belal",
+      "lastname": "Basheer",
+      "email": "Belal@gmail.com",
+      "dob": "1998-03-31T22:00:00.000Z",
+      "gender": "male",
+      "educ": "Graduate",
+      "company": "Meta",
+      "exp": 5,
+      "package": 1300,
+      "id": 4
+    }
+  ]
+}
